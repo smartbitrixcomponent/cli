@@ -1,6 +1,6 @@
 {
   "name": "smatrix-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for smatrix",
   "main": "index.js",
   "scripts": {
